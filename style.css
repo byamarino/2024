@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body
+{
+    background-color: rgb(245, 172, 172);
+    color: black;
+    font-size: 12pt;
+    font-family: Arial;
+}
+
+h1
+{
+    color: rgb(230, 113, 113);
+    font-size: 20pt;
+}
