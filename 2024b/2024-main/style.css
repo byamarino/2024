@@ -1,0 +1,26 @@
+.alinhamento{
+
+}
+
+body{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(168,148,233,1) 100%);
+    color: rgb(121, 45, 128);
+    font-size: 12pt;
+    font-family: Arial;
+    text-align: center;
+}
+
+a{
+    color: rgb(14, 1, 13);
+    font-size: 20pt;
+}
+
+.maquiagem{
+    width: 450px;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 18pt;
+}
